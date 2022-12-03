@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Jldnjs.github.io/sitemap.xml
+Sitemap: https://jldnjs.github.io/sitemap.xml
