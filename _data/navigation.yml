@@ -2,11 +2,36 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Category"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+#documentation links
+docs:
+  - title: TIL
+    url: /posts/til/
+  - title: Java
+    url: /posts/java/
+  - title: Python
+    url: /posts/python/
+  - title: Spring
+    url: /posts/spring/
+  - title: Algorithem
+    children:
+      - title: "Java"
+        url: /posts/algorithem/java/
+      - title: "Python"
+        url: /posts/algorithem/python/
+
+
+# #sidebar navigation list
+# sidebar-sample:
+#   - title: "Parent Page A"
+#     children:
+#       - title: "Child Page A1"
+#         url: /posts/2022-12-03-test/
