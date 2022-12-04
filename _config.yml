@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "J's TIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jiwon"
+name                     : "J"
 description              : "공부정리"
 url                      : "https://Jldnjs.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiwon"
+  name             : "J"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "studying.."
   location         : "Somewhere"
@@ -286,9 +286,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments:  true
-      share: true
+      read_time: false
+      comments: true
+      share: false
       related: true
       mathjax: true
       sidebar_main: true

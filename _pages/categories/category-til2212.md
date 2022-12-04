@@ -1,5 +1,5 @@
 ---
-title: "TIL-2022/12"
+title: "Today I Learnd - 2022/12"
 layout: archive
 permalink: categories/til2212
 author_profile: true
