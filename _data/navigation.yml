@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Category"
     url: /categories/
   - title: "Tags"
@@ -12,21 +12,15 @@ main:
   #   url: /sitemap/
 
 #documentation links
-docs:
-  - title: TIL
-    url: /posts/til/
-  - title: Java
-    url: /posts/java/
-  - title: Python
-    url: /posts/python/
-  - title: Spring
-    url: /posts/spring/
-  - title: Algorithem
-    children:
-      - title: "Java"
-        url: /posts/algorithem/java/
-      - title: "Python"
-        url: /posts/algorithem/python/
+# docs:
+#   - title: TIL
+#     url: /posts/til/
+#   - title: Algorithem
+#     children:
+#       - title: "Java"
+#         url: /posts/algorithem/java/
+#       - title: "Python"
+#         url: /posts/algorithem/python/
 
 
 # #sidebar navigation list
