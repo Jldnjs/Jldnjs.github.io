@@ -18,15 +18,15 @@
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->  
                 {% for category in site.categories %}
-                    {% if category[0] == "til2212" %}
-                        <li><a href="/categories/til2212" class="">TIL_2022-12 ({{category[1].size}})</a></li>
+                    {% if category[0] == "til22" %}
+                        <li><a href="/categories/til2212" class="">TIL_2022 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "til2301" %}
-                        <li><a href="/categories/til2301" class="">TIL_2023-01 ({{category[1].size}})</a></li>
+                    {% if category[0] == "til23" %}
+                        <li><a href="/categories/til2301" class="">TIL_2023 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
