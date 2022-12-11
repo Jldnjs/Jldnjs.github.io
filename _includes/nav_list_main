@@ -19,14 +19,14 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시-->  
                 {% for category in site.categories %}
                     {% if category[0] == "til22" %}
-                        <li><a href="/categories/til2212" class="">TIL_2022 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/til22" class="">TIL_2022 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "til23" %}
-                        <li><a href="/categories/til2301" class="">TIL_2023 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/til23" class="">TIL_2023 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
